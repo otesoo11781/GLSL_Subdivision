@@ -4,16 +4,23 @@ A simple practice of Subdivision and Phong Shading with GLSL
 ### UI control:
 
 Keyboard : Move the camera and adjust parameters.
+
 'w' : zoom in
+
 'a' : move left (circle the center)
+
 's' : zoom out
-'d' : move right (circle the center)
-'f' : move light position(Decrease y)
+
+'d' : move right (circle the center
+
+'f' : move light position(Decrease y
+
 'r' : move light position(Increase y
 
 '1' ~ '9' : change the level of subdivision(Suggest DO NOT exceed '3' , or it might crash because of the massive computation )
 
 ### Implement Steps:
+
 Subdivision & Phong shading program:
 
 #### Vertex shader:
